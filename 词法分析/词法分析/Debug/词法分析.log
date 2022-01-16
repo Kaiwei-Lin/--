@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(79,7): warning C4101: “str”: 未引用的局部变量
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(199,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(216,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(245,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(262,42): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(276,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(286,42): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(359,13): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(364,19): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lkw666\source\repos\词法分析\词法分析\main.cpp(535,25): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  词法分析.vcxproj -> C:\Users\lkw666\source\repos\词法分析\Debug\词法分析.exe
